@@ -1,2 +1,2 @@
 # NeuralChess
-Uma aplicação simples para obter e calcular as melhores jogadas no chess.com
+Uma aplicação simples para obter e calcular as melhores jogadas no xadrez
